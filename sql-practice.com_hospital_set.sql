@@ -1,5 +1,5 @@
 /*
-My solutions to questions on sql-practice.com
+My solutions to questions on sql-practice.com, hospital.db set
 */
 
 
