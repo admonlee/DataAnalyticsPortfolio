@@ -1,2 +1,4 @@
 # Case Studies  
-Repository for storing case studies in R and Python.
+Repository for storing case studies in R and Python.  
+  
+[Link to HTML version](https://admonlee.github.io/)
