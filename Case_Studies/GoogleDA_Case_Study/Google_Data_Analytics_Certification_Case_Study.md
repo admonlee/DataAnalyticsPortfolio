@@ -225,7 +225,7 @@ class.
 
 To further investigate this implication, we will break down the trips
 into hourly segments to visualize the ridership trend throughout the
-day. The total number of rides for every hour were averaged grouping by
+day. The total number of rides for every hour were averaged, grouping by
 day types (weekends and weekdays), then plotted for each member type.
 
 ``` r
