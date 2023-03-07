@@ -225,7 +225,7 @@ class.
 
 To further investigate this implication, we will break down the trips
 into hourly segments to visualize the ridership trend throughout the
-day. The total number of rides for every hour were averaged, grouping by
+day. The total number of rides for every hour were averaged grouping by
 day types (weekends and weekdays), then plotted for each member type.
 
 ``` r
@@ -394,6 +394,7 @@ improve membership rates.
   linking to such services could attract more users to get a membership
   instead of investing in their own bike.
 - Offer seasonal special rates for membership based on rider demand.
-  Since casual ridership peaks in spring, offering membership at a
-  reduced price at the beginning of the year may attract more casual
+  Since casual ridership peaks in summer, offering membership at a
+  reduced price in the summer may attract more casual
   users to sign up for membership.
+
